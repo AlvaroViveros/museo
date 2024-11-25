@@ -1,0 +1,422 @@
+[
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-TallerdeCeramica21deseptiembre-MIV -38",
+        "Posición": 11,
+        "Desde": "00:00:02",
+        "Hasta": "00:00:03",
+        "SegundosDesde": 2.0,
+        "SegundosHasta": 3.0,
+        "Gelería": "https://mviveros.myportfolio.com/taller-de-ceramica-21092024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-domingogratuito25deagosto-MIV-101",
+        "Posición": 18,
+        "Desde": "00:00:02",
+        "Hasta": "00:00:03",
+        "SegundosDesde": 2.0,
+        "SegundosHasta": 3.0,
+        "Gelería": "https://mviveros.myportfolio.com/domingo-gratuito-25082024-1"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-domingogratuito25deagosto-MIV-2",
+        "Posición": 10,
+        "Desde": "00:00:03",
+        "Hasta": "00:00:05",
+        "SegundosDesde": 3.0,
+        "SegundosHasta": 5.0,
+        "Gelería": "https://mviveros.myportfolio.com/domingo-gratuito-25082024-1"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-DomingoGratuito29deseptiembre-MIV -14",
+        "Posición": 12,
+        "Desde": "00:00:03",
+        "Hasta": "00:00:05",
+        "SegundosDesde": 3.0,
+        "SegundosHasta": 5.0,
+        "Gelería": "https://mviveros.myportfolio.com/domingo-gratuito-25082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-DomingoGratuito29deseptiembre-MIV -12",
+        "Posición": 14,
+        "Desde": "00:00:03",
+        "Hasta": "00:00:05",
+        "SegundosDesde": 3.0,
+        "SegundosHasta": 5.0,
+        "Gelería": "https://mviveros.myportfolio.com/domingo-gratuito-25082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-ClaustroyCNH9deagosto-MIV-16",
+        "Posición": 6,
+        "Desde": "00:00:24",
+        "Hasta": "00:00:27",
+        "SegundosDesde": 24.0,
+        "SegundosHasta": 27.0,
+        "Gelería": "https://mviveros.myportfolio.com/visita-guiada-colegio-claustro-moderno-y-cnh-9082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Franjaextendida12deseptiembre-MIV-53",
+        "Posición": 18,
+        "Desde": "00:00:24",
+        "Hasta": "00:00:27",
+        "SegundosDesde": 24.0,
+        "SegundosHasta": 27.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-12092024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-TardeandoCentroInternacional30deagosto-MIV-10",
+        "Posición": 11,
+        "Desde": "00:00:27",
+        "Hasta": "00:00:30",
+        "SegundosDesde": 27.0,
+        "SegundosHasta": 30.0,
+        "Gelería": "https://mviveros.myportfolio.com/tardeando-en-el-centro-internacional-30082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Franjaextendida19deseptiembre-MIV -40",
+        "Posición": 13,
+        "Desde": "00:00:27",
+        "Hasta": "00:00:30",
+        "SegundosDesde": 27.0,
+        "SegundosHasta": 30.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-19092024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-UniversidadCatolica1deagosto-MIV-37",
+        "Posición": 11,
+        "Desde": "00:00:34",
+        "Hasta": "00:00:36",
+        "SegundosDesde": 34.0,
+        "SegundosHasta": 36.0,
+        "Gelería": "https://mviveros.myportfolio.com/visita-guiada-universidad-catolica-1082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-TattoDCacademy23dejulio-MIV-10",
+        "Posición": 13,
+        "Desde": "00:00:34",
+        "Hasta": "00:00:36",
+        "SegundosDesde": 34.0,
+        "SegundosHasta": 36.0,
+        "Gelería": "https://mviveros.myportfolio.com/visita-guiada-tattoo-dc-academy-23072024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-ColegioCalasanz19dejulio-MIV-35",
+        "Posición": 12,
+        "Desde": "00:00:37",
+        "Hasta": "00:00:39",
+        "SegundosDesde": 37.0,
+        "SegundosHasta": 39.0,
+        "Gelería": "https://mviveros.myportfolio.com/visita-guiada-colegio-calazans-19072024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Franjaextendida8deagosto-MIV-27",
+        "Posición": 7,
+        "Desde": "00:00:39",
+        "Hasta": "00:00:42",
+        "SegundosDesde": 39.0,
+        "SegundosHasta": 42.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-8082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Sabado5deoctubre-MIV-61",
+        "Posición": 18,
+        "Desde": "00:00:39",
+        "Hasta": "00:00:42",
+        "SegundosDesde": 39.0,
+        "SegundosHasta": 42.0,
+        "Gelería": "https://mviveros.myportfolio.com/sabado-5-de-octubre"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-TardeandoCentroInternacional30deagosto-MIV-12",
+        "Posición": 16,
+        "Desde": "00:00:39",
+        "Hasta": "00:00:42",
+        "SegundosDesde": 39.0,
+        "SegundosHasta": 42.0,
+        "Gelería": "https://mviveros.myportfolio.com/tardeando-en-el-centro-internacional-30082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-franjaextendida25dejulio-MIV-06",
+        "Posición": 16,
+        "Desde": "00:00:46",
+        "Hasta": "00:00:49",
+        "SegundosDesde": 46.0,
+        "SegundosHasta": 49.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-25072024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Franjaextendida19deseptiembre-MIV -41",
+        "Posición": 12,
+        "Desde": "00:00:46",
+        "Hasta": "00:00:49",
+        "SegundosDesde": 46.0,
+        "SegundosHasta": 49.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-19092024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Franjaextendida22deagosto-MIV-74",
+        "Posición": 8,
+        "Desde": "00:00:46",
+        "Hasta": "00:00:49",
+        "SegundosDesde": 46.0,
+        "SegundosHasta": 49.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-22082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-inauguracioncicloII-2024-MIV-011",
+        "Posición": 18,
+        "Desde": "00:00:49",
+        "Hasta": "00:00:51",
+        "SegundosDesde": 49.0,
+        "SegundosHasta": 51.0,
+        "Gelería": "https://mviveros.myportfolio.com/inauguracion-ciclo-expositivo-ii"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-inauguracioncicloII-2024-MIV-124",
+        "Posición": 6,
+        "Desde": "00:00:49",
+        "Hasta": "00:00:51",
+        "SegundosDesde": 49.0,
+        "SegundosHasta": 51.0,
+        "Gelería": "https://mviveros.myportfolio.com/inauguracion-ciclo-expositivo-ii"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-franjaextendida25dejulio-MIV-09",
+        "Posición": 11,
+        "Desde": "00:00:51",
+        "Hasta": "00:00:54",
+        "SegundosDesde": 51.0,
+        "SegundosHasta": 54.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-25072024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Franjaextendida8deagosto-MIV-31",
+        "Posición": 13,
+        "Desde": "00:00:51",
+        "Hasta": "00:00:54",
+        "SegundosDesde": 51.0,
+        "SegundosHasta": 54.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-8082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-DomingoGratuito29deseptiembre-MIV -156",
+        "Posición": 6,
+        "Desde": "00:00:54",
+        "Hasta": "00:00:56",
+        "SegundosDesde": 54.0,
+        "SegundosHasta": 56.0,
+        "Gelería": "https://mviveros.myportfolio.com/domingo-gratuito-25082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-domingogratuito25deagosto-MIV-008",
+        "Posición": 12,
+        "Desde": "00:00:54",
+        "Hasta": "00:00:56",
+        "SegundosDesde": 54.0,
+        "SegundosHasta": 56.0,
+        "Gelería": "https://mviveros.myportfolio.com/domingo-gratuito-25082024-1"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-domingogratuito25deagosto-MIV-009",
+        "Posición": 18,
+        "Desde": "00:00:54",
+        "Hasta": "00:00:56",
+        "SegundosDesde": 54.0,
+        "SegundosHasta": 56.0,
+        "Gelería": "https://mviveros.myportfolio.com/domingo-gratuito-25082024-1"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Franjaextendida12deseptiembre-MIV-64",
+        "Posición": 11,
+        "Desde": "00:01:13",
+        "Hasta": "00:01:16",
+        "SegundosDesde": 73.0,
+        "SegundosHasta": 76.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-12092024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Franjaextendida22deagosto-MIV-73",
+        "Posición": 13,
+        "Desde": "00:01:13",
+        "Hasta": "00:01:16",
+        "SegundosDesde": 73.0,
+        "SegundosHasta": 76.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-22082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-inauguracioncicloII-2024-MIV-196",
+        "Posición": 18,
+        "Desde": "00:01:16",
+        "Hasta": "00:01:19",
+        "SegundosDesde": 76.0,
+        "SegundosHasta": 79.0,
+        "Gelería": "https://mviveros.myportfolio.com/inauguracion-ciclo-expositivo-ii"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-ColegioIsmaelPerdomo21deagosto-MIV-33",
+        "Posición": 6,
+        "Desde": "00:01:16",
+        "Hasta": "00:01:19",
+        "SegundosDesde": 76.0,
+        "SegundosHasta": 79.0,
+        "Gelería": "https://mviveros.myportfolio.com/visita-guiada-colegio-ismael-perdomo-21082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-franjaextendida11dejulio-MIV-13",
+        "Posición": 11,
+        "Desde": "00:01:20",
+        "Hasta": "00:01:24",
+        "SegundosDesde": 80.0,
+        "SegundosHasta": 84.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-11072024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-domingogratuito25deagosto-MIV-007",
+        "Posición": 13,
+        "Desde": "00:01:20",
+        "Hasta": "00:01:24",
+        "SegundosDesde": 80.0,
+        "SegundosHasta": 84.0,
+        "Gelería": "https://mviveros.myportfolio.com/domingo-gratuito-25082024-1"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Franjaextendida12deseptiembre-MIV-88",
+        "Posición": 11,
+        "Desde": "00:01:28",
+        "Hasta": "00:01:32",
+        "SegundosDesde": 87.99999999999999,
+        "SegundosHasta": 92.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-12092024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-TardeandoCentroInternacional30deagosto-MIV-14",
+        "Posición": 13,
+        "Desde": "00:01:28",
+        "Hasta": "00:01:32",
+        "SegundosDesde": 87.99999999999999,
+        "SegundosHasta": 92.0,
+        "Gelería": "https://mviveros.myportfolio.com/tardeando-en-el-centro-internacional-30082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-domingogratuito25deagosto-MIV-080",
+        "Posición": 13,
+        "Desde": "00:01:35",
+        "Hasta": "00:01:39",
+        "SegundosDesde": 95.0,
+        "SegundosHasta": 99.0,
+        "Gelería": "https://mviveros.myportfolio.com/domingo-gratuito-25082024-1"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-ColegioIsmaelPerdomo21deagosto-MIV-50",
+        "Posición": 11,
+        "Desde": "00:01:35",
+        "Hasta": "00:01:39",
+        "SegundosDesde": 95.0,
+        "SegundosHasta": 99.0,
+        "Gelería": "https://mviveros.myportfolio.com/visita-guiada-colegio-ismael-perdomo-21082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Franjaextendida12deseptiembre-MIV-60",
+        "Posición": 18,
+        "Desde": "00:01:43",
+        "Hasta": "00:01:47",
+        "SegundosDesde": 103.0,
+        "SegundosHasta": 107.00000000000001,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-12092024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-franjaextendida11dejulio-MIV-17",
+        "Posición": 6,
+        "Desde": "00:01:43",
+        "Hasta": "00:01:47",
+        "SegundosDesde": 103.0,
+        "SegundosHasta": 107.00000000000001,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-11072024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Franjaextendida12deseptiembre-MIV-58",
+        "Posición": 16,
+        "Desde": "00:01:49",
+        "Hasta": "00:01:54",
+        "SegundosDesde": 109.0,
+        "SegundosHasta": 114.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-12092024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-franjaextendida25dejulio-MIV-49",
+        "Posición": 8,
+        "Desde": "00:01:49",
+        "Hasta": "00:01:54",
+        "SegundosDesde": 109.0,
+        "SegundosHasta": 114.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-25072024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-inauguracioncicloII-2024-MIV-002",
+        "Posición": 13,
+        "Desde": "00:01:59",
+        "Hasta": "00:02:04",
+        "SegundosDesde": 118.99999999999999,
+        "SegundosHasta": 124.0,
+        "Gelería": "https://mviveros.myportfolio.com/inauguracion-ciclo-expositivo-ii"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Franjaextendida8deagosto-MIV-30",
+        "Posición": 11,
+        "Desde": "00:01:59",
+        "Hasta": "00:02:04",
+        "SegundosDesde": 118.99999999999999,
+        "SegundosHasta": 124.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-8082024"
+    },
+    {
+        "Vídeo": "Piso -1.mp4",
+        "Imagen": "mambo-Franjaextendida19deseptiembre-MIV -37",
+        "Posición": 12,
+        "Desde": "00:02:07",
+        "Hasta": "00:02:12",
+        "SegundosDesde": 127.0,
+        "SegundosHasta": 132.0,
+        "Gelería": "https://mviveros.myportfolio.com/franja-extendida-19092024"
+    }
+]
