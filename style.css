@@ -1,0 +1,24 @@
+/* Estilo para el video */
+video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: contain;
+    /* Ajusta el video para que siempre sea visible */
+}
+
+img {
+    /* border: 2px solid red; */
+    border: none;
+    opacity: 1.0;
+}
+
+/* Elimina márgenes y rellenos del body */
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* Previene el scroll adicional */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
