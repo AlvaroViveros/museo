@@ -39,7 +39,7 @@ function cargarVideo(index) {
         });
 
     // Reproducir el video
-    videoElement.play();
+    // videoElement.play();
 }
 
 // Evento para pasar al siguiente video al terminar
